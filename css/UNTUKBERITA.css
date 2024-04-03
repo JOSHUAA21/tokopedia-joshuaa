@@ -1,0 +1,35 @@
+.slider h5,
+.slider h3{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    
+}
+
+.about img {
+    margin-right: 100px;
+    max-width: 100%;
+}
+
+.clients h3{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.clients img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+.parallax img { 
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.parallax-container{
+    height: 20%;
+}
+
+section, footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+}
